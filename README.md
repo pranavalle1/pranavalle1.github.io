@@ -43,7 +43,7 @@ To view a live example, **[click here](https://pranavalle1.github.io/)**
 ## Tools Used 🛠️
 * [<b>GitHub Pages</b>](https://create-react-app.dev/docs/deployment/#github-pages) - To host my static website (HTML, CSS, JS).
 * [<b>Bootstrap</b>](https://getbootstrap.com/) - CSS based on Bootstrap framework.
-* [<b>Bootstrapstudio.io</b>]((https://bootstrapstudio.io/)) - Theme for the website.
+* [<b>Bootstrapstudio.io</b>](https://bootstrapstudio.io/) - Theme for the website.
 
 ## Contributing 💡
 #### Step 1
